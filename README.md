@@ -1,7 +1,7 @@
-# PNU_3991
+# PNU_3991AR
 ---------
 # علی سلامتی
-- [PNU_3991](https://github.com/alisalamati/PNU_3991-Theory-of-Languages-and-Machines)
+- [PNU_3991](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
 - [Resume]( https://alisalamati.github.io/resume/) 
 - [SOP]()
 - [GitHub](https://github.com/alisalamati)
