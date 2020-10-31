@@ -3,7 +3,7 @@
 # علی سلامتی
 - [PNU_3991](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
 - [Resume]( https://alisalamati.github.io/resume/) 
-- [SOP]()
+- [SOP](https://alisalamati.github.io/SOP/)
 - [GitHub](https://github.com/alisalamati)
 ------------------
 ## گروه ها
