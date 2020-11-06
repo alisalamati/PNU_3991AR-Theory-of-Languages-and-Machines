@@ -4,7 +4,7 @@
 - [PNU_3991](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
 - [Resume]( https://alisalamati.github.io/resume/) 
 - [SOP](https://alisalamati.github.io/SOP/)
--[Java Script License]
+- [Java Script License](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/java%20script%20license.jpeg)
 - [GitHub](https://github.com/alisalamati)
 ------------------
 ## گروه ها
