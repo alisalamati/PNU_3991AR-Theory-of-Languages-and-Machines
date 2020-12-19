@@ -1,5 +1,6 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
----------
+<div dir="rtl">
+
 # علی سلامتی خیاوی
 - [PNU_3991_AR](https://github.com/alisalamati/PNU_3991_AR)
 - [Resume]( https://alisalamati.github.io/resume/) 
@@ -25,7 +26,7 @@
     1. [TLM02-09 مهدیه بابایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/09_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%A8%D8%A7%D8%A8%D8%A7%D8%A6%D9%8A)
     1. [TLM02-46 زهرا قائد رحمت](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/46_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%82%D8%A7%D8%A6%D8%AF%D8%B1%D8%AD%D9%85%D8%AA)
     1. [TLM02-48رضا کاظمی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/48_%D8%B1%D8%B6%D8%A7%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
-
+</div>
 -------------
 ## روز و ساعت ارائه دروس
 
