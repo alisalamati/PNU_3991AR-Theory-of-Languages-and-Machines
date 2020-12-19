@@ -33,8 +33,6 @@
 
 </div>
 
-
-<div dir="ltr">
     
 <table style="width:150%">
   <tr>
