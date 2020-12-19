@@ -1,18 +1,20 @@
-# PNU_3991AR
+# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 ---------
-# علی سلامتی
-- [PNU_3991](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
+# علی سلامتی خیاوی
+- [PNU_3991AR](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
 - [Resume]( https://alisalamati.github.io/resume/) 
 - [SOP](https://alisalamati.github.io/SOP/)
-- [Java Script License](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/java%20script%20license.jpeg)
+- [Certificates](https://alisalamati.github.io/Certificate/)
 - [GitHub](https://github.com/alisalamati)
-- [jlord patchwork](patchwork.jpg)
-- [latex power (pdf)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).pdf)
-- [latex source (pdf)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).pdf)
-- [latex power (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).tex)
-- [latex source (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).tex)
+
 ------------------
-## گروه ها
+
+## فهرست درس ها  
+
+[نظریه زبان ها و ماشین ها	_1115157_01](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/tree/main/Theory-of-Languages-and-Machines)
+
+------------------
+## گروه های درسی
 
 1. G-TOLAM 01
     1. [_TLM01-30 علی سلامتی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/30_%D8%B9%D9%84%D9%8A%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%D9%8A%20%D8%AE%D9%8A%D8%A7%D9%88%D9%8A)
