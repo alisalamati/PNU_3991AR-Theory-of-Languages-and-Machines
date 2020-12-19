@@ -8,7 +8,7 @@
 - [GitHub](https://github.com/alisalamati)
 - [jlord patchwork](patchwork.jpg)
 - [latex power](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C_Power(117-120).pdf)
-- [latex source](/latex-pdf/لاتک علی سلامتی (117-120).pdf)
+- [latex source](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-pdf/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).pdf)
 ------------------
 ## گروه ها
 
