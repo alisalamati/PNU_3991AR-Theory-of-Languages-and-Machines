@@ -7,8 +7,8 @@
 - [Java Script License](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/java%20script%20license.jpeg)
 - [GitHub](https://github.com/alisalamati)
 - [jlord patchwork](patchwork.jpg)
-- [latex power](latex-pdf/علی سلامتی_Power(117-120).pdf)
-- [latex source](latex-pdf/لاتک علی سلامتی (117-120).pdf)
+- [latex power](/latex-pdf/علی سلامتی_Power(117-120).pdf)
+- [latex source](/latex-pdf/لاتک علی سلامتی (117-120).pdf)
 ------------------
 ## گروه ها
 
