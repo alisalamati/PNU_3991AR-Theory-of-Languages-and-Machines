@@ -28,8 +28,10 @@
     1. [TLM02-48رضا کاظمی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/48_%D8%B1%D8%B6%D8%A7%20%D9%83%D8%A7%D8%B8%D9%85%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
 </div>
 -------------
+<div align="center">
 ## روز و ساعت ارائه دروس
-
+</div>
+<div dir="ltr">
 <table style="width:150%">
   <tr>
     <th>18-20</th>
