@@ -1,7 +1,7 @@
 # [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 ---------
 # علی سلامتی خیاوی
-- [PNU_3991AR](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines)
+- [PNU_3991AR](https://github.com/alisalamati/PNU_3991AR)
 - [Resume]( https://alisalamati.github.io/resume/) 
 - [SOP](https://alisalamati.github.io/SOP/)
 - [Certificates](https://alisalamati.github.io/Certificate/)
@@ -11,7 +11,7 @@
 
 ## فهرست درس ها  
 
-[نظریه زبان ها و ماشین ها	_1115157_01](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/tree/main/Theory-of-Languages-and-Machines)
+[نظریه زبان ها و ماشین ها	_1115157_01](https://github.com/alisalamati/PNU_3991AR/tree/main/Theory-of-Languages-and-Machines)
 
 ------------------
 ## گروه های درسی
