@@ -30,8 +30,12 @@
 <div align="center">
     
 ## روز و ساعت ارائه دروس
+
 </div>
+
+
 <div dir="ltr">
+    
 <table style="width:150%">
   <tr>
     <th>18-20</th>
