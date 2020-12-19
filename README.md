@@ -7,6 +7,7 @@
 - [Java Script License](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/java%20script%20license.jpeg)
 - [GitHub](https://github.com/alisalamati)
 - [jlord patchwork](patchwork.jpg)
+- .[latex]()
 ------------------
 ## گروه ها
 
