@@ -9,7 +9,15 @@
 - [GitHub](https://github.com/alisalamati)
 
 ------------------
+> ارزیابی ها
 
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/alisalamati/PNU_3991_AR/blob/main/_General/AS_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/alisalamati/PNU_3991_AR/blob/main/_General/AS_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/alisalamati/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AS_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+------------------
 ## فهرست درس ها  
 
 [نظریه زبان ها و ماشین ها	_1115157_01](https://github.com/alisalamati/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
