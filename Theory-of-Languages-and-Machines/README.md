@@ -14,10 +14,23 @@
 - [latex source (tex)](https://github.com/alisalamati/PNU_3991AR-Theory-of-Languages-and-Machines/blob/main/latex-(.tex)/%D9%84%D8%A7%D8%AA%DA%A9%20%D8%B9%D9%84%DB%8C%20%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%20(117-120).tex)
  
 ------------------
- ## سیاهه ارزشیابی درس
+ ## ارائه فصل 8 در آپارات
 
 <details>
-    <summary>فعالیت های مشترک همه دانشجویان</summary>
+    <summary>ویدئوهای ارائه فصل 8</summary>
+ 
+   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت اول](https://www.aparat.com/v/ne70W)
+   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت دوم](https://aparat.com/v/wqUTy)
+   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت سوم](https://aparat.com/v/k1dxY)
+   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت چهارم](https://aparat.com/v/WkGdE)
+   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت پنجم](https://aparat.com/v/w0YLP)
+   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت ششم](https://aparat.com/v/wUMK7)
+   
+</details>
+
+------------------
+  <details>
+           <summary>فعالیت های مشترک همه دانشجویان</summary>
     
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
@@ -29,7 +42,10 @@
     7. مشارکت در گروهای درسی
 
 </details>
-    
+   
+   <details>
+ <summary>سیاهه ارزشیابی درس</summary>
+ 
 2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
@@ -50,6 +66,8 @@
         - [**A clean, simple and extensible template for presentations. Supports XeTeX and Beamer**](https://github.com/RatulSaha/presento)
         - [**A simple, minimalistic Beamer theme to keep eyes on the content**](https://github.com/martinbjeldbak/beamertheme-bjeldbak)
         
+       </details>
+       
         ---------------
 ## گروه ها
 
