@@ -21,7 +21,7 @@
 
 ## فهرست درس ها  
 
-[نظریه زبان ها و ماشین ها	_1115157_01](https://github.com/alisalamati/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
+- [نظریه زبان ها و ماشین ها	_1115157_01](https://github.com/alisalamati/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines)
 
 ------------------
     
