@@ -17,6 +17,9 @@
 
 ##  بخش دروس کارشناسی
 - [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها](https://github.com/alisalamati/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/AS_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+------------------
+##  ویدئوهای ارائه فصل 8
+
 - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت اول](https://www.aparat.com/v/ne70W)
 - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت دوم](https://aparat.com/v/wqUTy)
 - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت سوم](https://aparat.com/v/k1dxY)
