@@ -27,11 +27,11 @@
    <details>
  <summary>سیاهه ارزشیابی درس</summary>
  
-2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
+1. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
     - شماره ردیف دانشجو به پیمانه 11 
      ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
     
-3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
+2. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
     - [**مخزن کتاب**](https://github.com/AliRazavi-edu/Book_IntroductionToAutomataTheory_Kandar)
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
         - **از صفحه :** [([شماره ردیف کل دانشجو](#StudentsList) - 1) * 4] + 1
@@ -40,7 +40,7 @@
      - **راهنمایی** : نمونه کتاب دارای گراف و فرمول 
           - [**Book of Algorithmic Graph Theory**](https://github.com/jonasagx/graphbook)
 
-4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
+3. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
     - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
     	- [beamer-tutorial](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
         - [**A collection of custom Beamer themes**](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
