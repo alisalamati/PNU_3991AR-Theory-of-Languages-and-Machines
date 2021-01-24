@@ -29,12 +29,7 @@
 <details>
     <summary>مسابقاتICPCدانشگاه صنعتی شریف</summary>
  
-   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت اول](https://www.aparat.com/v/ne70W)
-   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت دوم](https://aparat.com/v/wqUTy)
-   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت سوم](https://aparat.com/v/k1dxY)
-   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت چهارم](https://aparat.com/v/WkGdE)
-   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت پنجم](https://aparat.com/v/w0YLP)
-   - [ویدئو ارائه فصل 8 درس نظریه زبان ها و ماشین ها-قسمت ششم](https://aparat.com/v/wUMK7)
+   - [ تاییدیه تیم ](https://github.com/alisalamati/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/certificates-image/ICPC.jpg)
    
 </details>
 
